@@ -1,2 +1,2 @@
 # hello-world
-short description
+I'm student just sitting here and other is not important
